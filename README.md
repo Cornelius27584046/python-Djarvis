@@ -1,2 +1,2 @@
 # python-Djarvis
-Djarvis is a small project that is meant to be a development-orientated version of Iron Man's Jarvis program.
+Djarvis is a small project that is meant to be a development-orientated version of Iron Man's Jarvis program. Djarvis starts on a loop, listening until it hears the word "open". After the word has been said, the program asks what you want to do, gets the information regarding what you want to do and thereafter opens the pre-designated programs. For example, when I want to work on web development, Djarvis opens vsCode and my web browser.
